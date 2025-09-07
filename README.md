@@ -10,4 +10,4 @@ Estimasi efek kausal diskon terhadap profit menggunakan Double ML.
 ## Installation
 ```bash
 pip install -r requirements.txt
-(data/plots/image.png)
+(image.png)
